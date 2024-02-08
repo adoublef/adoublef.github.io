@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <meta name="go-import" content="go.adoublef.dev/sdk git https://github.com/adoublef/sdk">
+    <meta name="go-import" content="go.adoublef.dev/sdk mod https://github.com/adoublef/sdk">
     <meta name="go-source" content="go.adoublef.dev/sdk 
         https://github.com/adoublef/sdk 
         https://github.com/adoublef/sdk/browse{/dir}
