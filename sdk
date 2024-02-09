@@ -4,7 +4,7 @@
 <head>
     <meta name="go-import" content="go.adoublef.dev/sdk git https://github.com/adoublef/sdk">
     <meta name="go-source" content="go.adoublef.dev/sdk 
-        https://github.com/adoublef/sdk 
+        _
         https://github.com/adoublef/sdk/browse{/dir}
         https://github.com/adoublef/sdk/show{/dir}/{file}#L{line}
     ">
